@@ -1,10 +1,8 @@
 ---
-title: "ewtsang.github.io"
+title: "Evelyn Tsang"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello, my name is Evelyn!! I am a third-year undergraduate at the University of California, Santa Barbara, studying Environmental Studies & Earth Science. 
 
 ```{r}
 1 + 1
