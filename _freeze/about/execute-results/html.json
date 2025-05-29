@@ -1,0 +1,15 @@
+{
+  "hash": "34a91f89513ca3484ddbde7dbdd87530",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About Me\"\nlisting:\n  contents: images\n  sort: false\n  type: grid\n  image-align: right\n  max-description-length: 175\n  date-format: medium\n  categories: false\npage-layout: article\nfreeze: auto\neditor: source\n---\n\n\n\n\nI grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun.\n\nI'm passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.\n\nOutside of academics, I'm interested in learning new recipes, traditional arts, and UI/UX design!\n\n------------------------------------------------------------------------\n\nCheck out what I've been up to recently:\n\n------------------------------------------------------------------------\n\nYou can also find my resume [here](https://docs.google.com/document/d/1wDDSPpHPegMAnVRD2VCqW2HDpQqcA-oxd_Md09W9RoU/edit?usp=sharing)\n\n\n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
