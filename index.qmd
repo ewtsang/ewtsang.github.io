@@ -8,6 +8,7 @@ about:
   links: 
     - text: LinkedIn
       href: www.linkedin.com/in/evelyn-tsang-593850211/
+      target: "_blank"
     - text: GitHub
       href: https://github.com/ewtsang
     - text: Email
