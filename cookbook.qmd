@@ -1,5 +1,11 @@
 ---
-title: "cookbook"
+title: "What's Cooking?"
 format: html
 ---
 
+-   Pickled Veggies (Red Onion + Jalapenos)
+-   Carrot Salad
+-   HK Style Tomato Egg
+-   HK Style Fried Chicken
+-   Ginger Pork Congee
+-   My Family's Guide to Hot Pot
