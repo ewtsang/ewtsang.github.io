@@ -1,5 +1,6 @@
 ---
 title: "Evelyn Tsang"
+image: website_pic.png
 toc: false
 about: 
   template: jolla
