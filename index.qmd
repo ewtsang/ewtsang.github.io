@@ -7,16 +7,29 @@ about:
   image-shape: round
   image-width: 17em
   links: 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: www.linkedin.com/in/evelyn-tsang-593850211/
       target: "_blank"
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/ewtsang
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:ewtsang@ucsb.edu
+
 ---
 
-Hello, my name is Evelyn!! I am a third-year undergraduate at the University of California, Santa Barbara, studying Environmental Studies & Earth Science.
+# Hello!
+
+I am a third-year undergraduate at the University of California, Santa Barbara, studying Environmental Studies & Earth Science.
+
+------------------------------------------------------------------------
+
+# Current Projects
+
+------------------------------------------------------------------------
+
 
 ```{r}
 
