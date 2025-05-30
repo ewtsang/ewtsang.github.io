@@ -2,5 +2,15 @@
   {
     "listing": "/about.html",
     "items": []
+  },
+  {
+    "listing": "/projectpage.html",
+    "items": []
+  },
+  {
+    "listing": "/cookbook.html",
+    "items": [
+      "/cookbook/kitchen-essentials/index.html"
+    ]
   }
 ]

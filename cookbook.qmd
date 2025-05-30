@@ -1,5 +1,18 @@
 ---
 title: "What's Cooking?"
+listing: 
+  contents: cookbook
+  sort: false
+  type: grid
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: article
+editor: source
+freeze: auto
 format: html
 ---
 
