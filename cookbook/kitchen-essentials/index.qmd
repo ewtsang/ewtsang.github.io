@@ -1,22 +1,61 @@
 ---
-title: "Kitchen Essentials"
-description: Items I can't cook without!
+title: "kitchen essentials"
+description: here are some of the items i keep with me and are part of my weekly diet
+
 categories: [tips]
 format: html
 ---
 
-# Kitchen Essentials
+## in the fridge/freezer
 
-## In the fridge
+### 🍖 protien
+- soft tofu
+- assorted fishballs
+- bone-in chicken
+- assorted dumplings
+- chinese sausage
 
-### Protien
+### 🥕 veggie
+- root carrot
+- onion
+- garlic
 
-## Veg
+## in the pantry
 
-## In the pantry
+### 🫙 saucy
+- soy sauce
+- fish sauce
+- hosin sauce
+- oyster sauce
+- kewpie mayo
+- sesame oil
+- chili oil
+- rice vinegar
+- white vinegar
 
-### Saucy
+### 🫚 spices
+- salt (+msg)
+- pepper (black, white, gochugaru, red)
+- sugar (granulated, light brown, dark brown)
+- chicken boullion
+- garlic
+- ginger
+- hondashi
+- sesame seeds
 
-### Dried
+### 🍚 dried
+- shiitake mushrooms
+- woodear mushrooms (*AKA black fungus*)
+- ramen (jin)
+- rice noodles
+- rice grains (short, mixed)
 
-### Canned
+### 🥫 canned
+- tomato paste
+
+### 🌱 in the garden
+what i'm currently growing:
+
+- thai basil
+- basil
+- thai chili pepper

@@ -16,8 +16,4 @@ freeze: auto
 format: html
 ---
 
--   Carrot Salad
--   HK Style Tomato Egg
--   HK Style Fried Chicken
--   Ginger Pork Congee
--   My Family's Guide to Hot Pot
+👩‍🍳 follow me along on my cooking journey!
