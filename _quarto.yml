@@ -11,9 +11,11 @@ website:
       - about.qmd
       - projectpage.qmd
       - cookbook.qmd
-
+#setting theme
 format:
   html:
+    respect-user-color-scheme: true
+    #honors the user's operating system or browser preference for light or dark mode
     theme: 
       light: litera
       dark: solar
