@@ -1,7 +1,6 @@
 ---
 title: "kitchen essentials"
 description: here are some of the items i keep with me and are part of my weekly diet
-
 categories: [tips]
 format: html
 ---
@@ -9,16 +8,10 @@ format: html
 ## in the fridge/freezer
 
 ### 🍖 protien
-- soft tofu
-- assorted fishballs
-- bone-in chicken
-- assorted dumplings
-- chinese sausage
+![protien](protein.jpg){.lightbox} 
 
 ### 🥕 veggie
-- root carrot
-- onion
-- garlic
+![veggie](veggie.jpg){.lightbox}
 
 ## in the pantry
 
@@ -44,11 +37,7 @@ format: html
 - sesame seeds
 
 ### 🍚 dried
-- shiitake mushrooms
-- woodear mushrooms (*AKA black fungus*)
-- ramen (jin)
-- rice noodles
-- rice grains (short, mixed)
+![dried](dried.jpg){.lightbox}
 
 ### 🥫 canned
 - tomato paste
