@@ -1,0 +1,9 @@
+---
+title: "hainan chicken"
+categories: [chicken, restaurant style]
+description: eat hot or cold!
+format: html
+---
+
+tip:
+use the chicken stock after for congee or add vegetables and make soup

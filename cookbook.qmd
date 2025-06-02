@@ -1,5 +1,5 @@
 ---
-title: "What's Cooking?"
+title: "what's cooking?"
 listing: 
   contents: cookbook
   sort: false
@@ -13,7 +13,7 @@ listing:
 page-layout: article
 editor: source
 freeze: auto
-format: html
+format: html 
 ---
 
 👩‍🍳 follow me along on my cooking journey!

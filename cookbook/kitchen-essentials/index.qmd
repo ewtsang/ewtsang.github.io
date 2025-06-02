@@ -8,43 +8,50 @@ format: html
 ## in the fridge/freezer
 
 ### 🍖 protien
-![protien](protein.jpg){.lightbox} 
+
+![protien](protein.jpg){.lightbox}
 
 ### 🥕 veggie
+
 ![veggie](veggie.jpg){.lightbox}
 
 ## in the pantry
 
 ### 🫙 saucy
-- soy sauce
-- fish sauce
-- hosin sauce
-- oyster sauce
-- kewpie mayo
-- sesame oil
-- chili oil
-- rice vinegar
-- white vinegar
+
+-   soy sauce
+-   fish sauce
+-   hosin sauce
+-   oyster sauce
+-   kewpie mayo
+-   sesame oil
+-   chili oil
+-   rice vinegar
+-   white vinegar
 
 ### 🫚 spices
-- salt (+msg)
-- pepper (black, white, gochugaru, red)
-- sugar (granulated, light brown, dark brown)
-- chicken boullion
-- garlic
-- ginger
-- hondashi
-- sesame seeds
+
+-   salt (+msg)
+-   pepper (black, white, gochugaru, red)
+-   sugar (granulated, light brown, dark brown)
+-   chicken boullion
+-   garlic
+-   ginger
+-   hondashi
+-   sesame seeds
 
 ### 🍚 dried
+
 ![dried](dried.jpg){.lightbox}
 
 ### 🥫 canned
-- tomato paste
+
+-   tomato paste
 
 ### 🌱 in the garden
+
 what i'm currently growing:
 
-- thai basil
-- basil
-- thai chili pepper
+-   thai basil
+-   basil
+-   thai chili pepper

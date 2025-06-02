@@ -1,7 +1,10 @@
 [
   {
     "listing": "/about.html",
-    "items": []
+    "items": [
+      "/images/fuerteindex/fuerteindex.html",
+      "/images/tetfest/tetfest-index.html"
+    ]
   },
   {
     "listing": "/projectpage.html",
@@ -10,7 +13,11 @@
   {
     "listing": "/cookbook.html",
     "items": [
-      "/cookbook/kitchen-essentials/index.html"
+      "/cookbook/congee/congeeindex.html",
+      "/cookbook/hainan-chicken/hainanindex.html",
+      "/cookbook/hotpot-guide/hotpotindex.html",
+      "/cookbook/kitchen-essentials/index.html",
+      "/cookbook/tomato-shrimp/tomatoshrimpindex.html"
     ]
   }
 ]

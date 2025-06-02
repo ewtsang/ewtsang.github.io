@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -164,7 +164,7 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cookbook.html"> 
-<span class="menu-text">What’s Cooking?</span></a>
+<span class="menu-text">what’s cooking?</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -216,7 +216,46 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1748827701577" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
+<a href="./images/fuerteindex/fuerteindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FUERTE
+</h5>
+<div class="card-text listing-description">
+The FUERTE program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is designed to build your foundation to…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1748828409003" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+<a href="./images/tetfest/tetfest-index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UVSA Tết Festival 2025
+</h5>
+<div class="card-text listing-description">
+This year, I headed the 2025 Marketing Team for the nation’s largest student-run Tết Festival (Vietnamese Lunar New Year celebration).
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

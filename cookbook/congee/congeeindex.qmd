@@ -1,0 +1,12 @@
+---
+title: "congee"
+description: simple, but substatial
+categories: [sick meals]
+format: html
+---
+
+history of congee
+
+different iterations
+
+ 

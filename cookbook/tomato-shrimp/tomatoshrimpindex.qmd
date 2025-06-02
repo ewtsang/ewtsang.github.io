@@ -1,0 +1,8 @@
+---
+title: "tomato shrimp soup"
+categories: [shrimp, noodle,soup]
+description: a shrimp can fry rice, and it can also make this yummy and limey soup  
+format: html
+---
+
+not a big fan of cilantro? this may not be for you
