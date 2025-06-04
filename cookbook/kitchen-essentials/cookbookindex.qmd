@@ -1,0 +1,58 @@
+---
+title: "Kitchen Essentials"
+description: Here are some of the items I keep with me and are part of my weekly diet!
+categories: [tips]
+format: html
+---
+
+## In the fridge/freezer
+
+### 🍖 Protein
+![protein](protein.jpg){.lightbox}
+
+### 🥕 Veggies
+
+![veggie](veggie.jpg){.lightbox}
+
+## In the pantry
+
+### 🫙 Saucy
+
+-   soy sauce
+-   fish sauce
+-   hosin sauce
+-   oyster sauce
+-   kewpie mayo
+-   sesame oil
+-   chili oil
+-   rice vinegar
+-   white vinegar
+
+### 🫚 Spices
+
+-   salt (+msg)
+-   pepper (black, white, gochugaru, red)
+-   sugar (granulated, light brown, dark brown)
+-   chicken boullion
+-   garlic
+-   ginger
+-   hondashi
+-   sesame seeds
+
+### 🍚 Dried
+
+![dried](dried.jpg){.lightbox}
+
+### 🥫 Canned
+
+-   tomato paste
+
+### 🌱 In the garden
+
+![dried](dried.jpg){.lightbox}
+
+what i'm currently growing:
+
+-   thai basil
+-   basil
+-   thai chili pepper

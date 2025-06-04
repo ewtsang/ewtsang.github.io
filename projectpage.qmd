@@ -1,5 +1,16 @@
 ---
 title: "My Projects"
+listing:
+  contents: projectpage
+  sort: false
+  type: grid
+  image-align: right
+  max-description-length: 100
+  date-format: medium
+  categories: false
+page-layout: article
+freeze: auto
+editor: source
 format: html
 ---
 

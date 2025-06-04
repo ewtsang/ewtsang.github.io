@@ -1,5 +1,5 @@
 ---
-title: "what's cooking?"
+title: "What's Cooking?"
 listing: 
   contents: cookbook
   sort: false
@@ -16,4 +16,4 @@ freeze: auto
 format: html 
 ---
 
-👩‍🍳 follow me along on my cooking journey!
+👩‍🍳 Follow me along on my cooking journey!

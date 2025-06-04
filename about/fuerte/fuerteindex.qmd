@@ -1,0 +1,41 @@
+---
+title: "FUERTE"
+toc: false
+about:
+  template: jolla
+  links: 
+    - icon: star
+      text: My FUERTE Profile
+      href: https://fuerte.eemb.ucsb.edu/fellows-22-23
+format: html
+---
+
+The [FUERTE](https://fuerte.eemb.ucsb.edu/) program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed to build a foundation to succeed at the university and to develop the skills needed for a career in conservation and environmental sciences, areas that specifically involve fieldwork when doing research.
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+## Summer 1
+
+My first summer began with a summer field trip to the Sierra Nevada Aquatic Research Laboratory ([SNARL](https://snarl.nrs.ucsb.edu/)). I learned about long-term place-based datasets, data collection and analysis. My personal project, working with Sanjana Sujeet and Andrea Estrada, examined plastic collected in the Eastern Sierras.
+
+You can check out our presentation here:
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+## Summer 2
+
+During my second summer, I participated in the DECOMP Lab. I worked with PhD Student, Germán Silva on *“Researching Wetland Plant Dynamics and Disturbance Response in a Changing Environment”*, examining how pickleweed plants can be used as environmental indicators.
+
+I participated in on-site field research and sampling at UCSB’s North Campus Open Space and campus greenhouse.
+
+Helped develop protocol and perform data collection for pickleweed sample prep, anthocyanin extraction, chlorophyll extraction, and soil EC measurements.
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+## Summer 3
+
+This summer, I will be working with [CFROG](https://cfrog.org/), a Ventura County-based advocacy organization leading a just transition away from fossil fuels to protect our health, economy, and climate.
+
+🙌 Stay tuned for updates!
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹

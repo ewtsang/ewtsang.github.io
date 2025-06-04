@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -164,7 +164,7 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cookbook.html"> 
-<span class="menu-text">what’s cooking?</span></a>
+<span class="menu-text">What’s Cooking?</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./CV.html"> 
@@ -210,23 +210,69 @@ window.Quarto = {
 <p>I grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun. ☀️</p>
 <p>I’m passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.</p>
 <p>Outside of academics, I’m interested in learning new recipes, traditional arts, and UI/UX design!</p>
+<p>You can also find my resume <a href="https://docs.google.com/document/d/1wDDSPpHPegMAnVRD2VCqW2HDpQqcA-oxd_Md09W9RoU/edit?usp=sharing">here</a></p>
 <hr>
 <p>Check out what I’ve been up to recently:</p>
-<hr>
-<p>You can also find my resume <a href="https://docs.google.com/document/d/1wDDSPpHPegMAnVRD2VCqW2HDpQqcA-oxd_Md09W9RoU/edit?usp=sharing">here</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><embed src="Documents/ENVS-193DS/GitHub/Personal-Website/ewtsang.github.io/CV/ETResumeMay2025.pdf" width="800" height="600"></p>
-<figcaption>CV</figcaption>
+<p><img src="images/beachday.jpg" class="img-fluid figure-img" data-group="my-gallery"></p>
+<figcaption>I’ve always loved exploring the coast. Pictured are my younger brother, Roland and I playing with sand at Canon Beach, OR – We often took short weekend vacations or day trips to the coast. The water was cold, so I spent most of my time building sandcastles or peering into tidepools.</figcaption>
 </figure>
 </div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/gaviota.jpg" class="img-fluid figure-img" data-group="my-gallery"></p>
+<figcaption>When I find the time, I like to egg my friends to take nature walks with me. My favorite hike I have taken nearby was definitely the Gaviota Wind Caves. It involved a lot of scaling near the top, but the view was worth it!</figcaption>
+</figure>
+</div>
+<hr>
+<p>Check out what else I’m up to:</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1749004247189" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<a href="./about/fuerte/fuerteindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FUERTE
+</h5>
+<div class="card-text listing-description">
+The FUERTE program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="02-2025" data-listing-file-modified-sort="1748828715457" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+<a href="./about/tetfest/tetfest-index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UVSA Tết Festival 2025
+</h5>
+<div class="card-text listing-description">
+This year, the UVSA Tết Festival theme was “A Spring of Remembrance” or “Xuân Hoài Niệm”, to honor the efforts of the Vietnamese community in building a home abroad.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
