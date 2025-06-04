@@ -1,10 +1,7 @@
 [
   {
     "listing": "/about.html",
-    "items": [
-      "/images/fuerteindex/fuerteindex.html",
-      "/images/tetfest/tetfest-index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/projectpage.html",

@@ -13,7 +13,8 @@ freeze: auto
 editor: source
 ---
 
-I grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun.
+
+I grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun. ☀️
 
 I'm passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.
 
@@ -27,7 +28,5 @@ Check out what I've been up to recently:
 
 You can also find my resume [here](https://docs.google.com/document/d/1wDDSPpHPegMAnVRD2VCqW2HDpQqcA-oxd_Md09W9RoU/edit?usp=sharing)
 
-```{r}
-
-```
+![CV](Documents/ENVS-193DS/GitHub/Personal-Website/ewtsang.github.io/CV/ETResumeMay2025.pdf){width="800px" height="600px"}
 

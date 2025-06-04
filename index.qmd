@@ -3,7 +3,7 @@ title: "Evelyn Tsang"
 image: website_pic.png
 toc: false
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 17em
   links: 
@@ -16,7 +16,8 @@ about:
       href: https://github.com/ewtsang
     - icon: envelope
       text: Email
-      href: mailto:ewtsang@ucsb.edu
+      href: mailto::ewtsang@ucsb.edu
+editor: source
 ---
 
 # Hello!

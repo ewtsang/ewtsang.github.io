@@ -11,6 +11,7 @@ website:
       - about.qmd
       - projectpage.qmd
       - cookbook.qmd
+      - CV.qmd
 #setting theme
 format:
   html:

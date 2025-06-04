@@ -1,9 +1,11 @@
 {
-  "hash": "34a91f89513ca3484ddbde7dbdd87530",
+  "hash": "e0244673d15f99b054a8d85360ba476d",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"About Me\"\nlisting:\n  contents: images\n  sort: false\n  type: grid\n  image-align: right\n  max-description-length: 175\n  date-format: medium\n  categories: false\npage-layout: article\nfreeze: auto\neditor: source\n---\n\n\n\nI grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun.\n\nI'm passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.\n\nOutside of academics, I'm interested in learning new recipes, traditional arts, and UI/UX design!\n\n------------------------------------------------------------------------\n\nCheck out what I've been up to recently:\n\n------------------------------------------------------------------------\n\nYou can also find my resume [here](https://docs.google.com/document/d/1wDDSPpHPegMAnVRD2VCqW2HDpQqcA-oxd_Md09W9RoU/edit?usp=sharing)\n\n\n\n::: {.cell}\n\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"About Me\"\nlisting:\n  contents: images\n  sort: false\n  type: grid\n  image-align: right\n  max-description-length: 175\n  date-format: medium\n  categories: false\npage-layout: article\nfreeze: auto\neditor: source\n---\n\n\n\n\n\n\n\n\n\n\n\n\n\nI grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun. ☀️\n\nI'm passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.\n\nOutside of academics, I'm interested in learning new recipes, traditional arts, and UI/UX design!\n\n------------------------------------------------------------------------\n\nCheck out what I've been up to recently:\n\n------------------------------------------------------------------------\n\nYou can also find my resume [here](https://docs.google.com/document/d/1wDDSPpHPegMAnVRD2VCqW2HDpQqcA-oxd_Md09W9RoU/edit?usp=sharing)\n\n\n\n\n\n\n\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#knitr::opts_chunk$set(echo = TRUE)\n#knitr::opts_chunk$set(message = FALSE)\n#knitr::opts_chunk$set(dev = 'pdf')\n#\\includepdf[pages=-]{C:/Users/ewtsa/Documents/ENVS-193DS/GitHub/Personal-Website/ewtsang.github.io/CV/ETResumeMay2025.pdf}\n```\n:::\n\n\n\n\n\n\n\n\n\n\n\n<embed src=\"C:/Users/ewtsa/Documents/ENVS-193DS/GitHub/Personal-Website/ewtsang.github.io/CV/ETResumeMay2025.pdf\" width=\"800px\" height=\"600px\">\n\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

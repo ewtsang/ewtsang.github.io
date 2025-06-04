@@ -8,10 +8,9 @@ about:
       text: My FUERTE Profile
       href: https://fuerte.eemb.ucsb.edu/fellows-22-23
 format: html
-
 ---
 
-The [FUERTE](https://fuerte.eemb.ucsb.edu/) program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is designed to build your foundation to succeed at the university, and to develop the skills you need for a career in conservation and environmental sciences, areas that specifically involve fieldwork when doing the research. FUERTE is meant to welcome and support UCSB undergraduate students who might not have had a lot of experience in field science but are interested in getting more experience to build their future careers as environmental scientists.
+The [FUERTE](https://fuerte.eemb.ucsb.edu/) program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed to build a foundation to succeed at the university and to develop the skills needed for a career in conservation and environmental sciences, areas that specifically involve fieldwork when doing research.
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
@@ -27,7 +26,7 @@ You can check out our presentation here:
 
 During my second summer, I participated in the DECOMP Lab. I worked with PhD Student, Germán Silva on *“Researching Wetland Plant Dynamics and Disturbance Response in a Changing Environment”*, examining how pickleweed plants can be used as environmental indicators.
 
-I participated in on-site field research and sampling  at UCSB’s North Campus Open Space and campus greenhouse.
+I participated in on-site field research and sampling at UCSB’s North Campus Open Space and campus greenhouse.
 
 Helped develop protocol and perform data collection for pickleweed sample prep, anthocyanin extraction, chlorophyll extraction, and soil EC measurements.
 
