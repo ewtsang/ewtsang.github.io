@@ -8,7 +8,7 @@ format: html
 ## in the fridge/freezer
 
 ### 🍖 protien
-![protien]("Users/ewtsa/Documents/ENVS-193DS/GitHub/Personal-Website/ewtsang.github.io/cookbook/kitchen-essentials/protein.jpg"){.lightbox}
+![protien](protein.jpg){.lightbox}
 
 ### 🥕 veggie
 
