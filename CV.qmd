@@ -1,6 +1,16 @@
 ---
-title: "CV"
-format: html
-
+title: "My CV"
+format: 
+  html:
+    allow-html:
 ---
 
+<iframe src="CV/ETResumeMay2025.pdf" width="100%" height="600px" style="border: none;">
+
+This browser does not support PDFs. Please download the file:
+
+<a href="CV/ETResumeMay2025.pdf">Download PDF</a>.
+
+<iframe>
+
+Questions? Contact me at ewtsang@ucsb.edu
