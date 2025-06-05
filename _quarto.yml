@@ -12,6 +12,7 @@ website:
       - projectpage.qmd
       - cookbook.qmd
       - CV.qmd
+      - travel.qmd
 #setting theme
 format:
   html:
