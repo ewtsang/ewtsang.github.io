@@ -1,0 +1,42 @@
+---
+title: "test"
+format: html
+---
+
+---
+title: "Map Test"
+format: html
+---
+
+<!-- Load Leaflet CSS & JS -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+<script
+  src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+</script>
+
+<!-- Style -->
+<style>
+  #map {
+    height: 500px;
+    border: 1px solid gray;
+    margin-top: 1em;
+  }
+</style>
+
+<!-- Map container -->
+<div id="map"></div>
+
+<!-- Script -->
+<script>
+  var map = L.map('map').setView([20, 0], 2);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  L.marker([40.7128, -74.0060]).addTo(map).bindPopup("NYC 🗽");
+</script>

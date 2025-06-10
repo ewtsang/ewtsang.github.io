@@ -16,7 +16,7 @@ about:
       href: https://github.com/ewtsang
     - icon: envelope
       text: Email
-      href: mailto::ewtsang@ucsb.edu
+      href: mailto:ewtsang@ucsb.edu
 editor: source
 ---
 
