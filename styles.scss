@@ -20,7 +20,7 @@ $navbar-fg: $cream; // navbar background color
 $navbar-hl: $yellow; // navbar foreground color
 $body-bg: $cream; // page background 
 $body-color: $brown; // page text color
-$footer-bg: $blue; // footer background
+$footer-bg: $pink; // footer background
 $footer-color: $cream; //footer text
 $link-color: $red; // hyperlinks 
 
@@ -36,4 +36,24 @@ h1, h2 {
 
 .title{
   color: $green;
+}
+
+.column{
+  margin-right: 2rem;
+  margin-left: 2rem;
+  padding: 0.5rem;
+}
+
+.center-columns {
+  display: flex;
+  justify-content: center;   /* centers horizontally */
+  flex-wrap: wrap;           /* allows wrapping if too wide */
+  gap: 2rem;                 /* optional spacing between columns */
+  text-align: center;        /* optional: centers text/images inside */
+}
+
+/* Individual columns */
+.center-columns .column {
+  flex: 1 1 300px; /* grow, shrink, base width */
+  max-width: 300px;
 }
