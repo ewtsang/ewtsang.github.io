@@ -25,13 +25,29 @@ Outside of academics, I'm interested in learning new recipes, traditional arts, 
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
+::: {.center-columns}
+
 ::: {.column width="25%"}
-## Story of my life
-<img src="images/tamo.png" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+### Our Immigration Story
+
+<img src="images/grandparents.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+
+My maternal grandparents (pictured above) immigrated to the United States in the 1980s, where my mom and her 5 siblings finished their schooling in Vancouver, WA.
+
+My fraternal grandparents immigrated a decade before, but to the east coast, and my dad and his 2 siblings grew up in Baltimore, MA helping out at the family Chinese take-out restaurant.
 :::
 
 ::: {.column width="25%"}
-## A childhood in the PNW...
+### Mom and Dad
+
+<img src="images/wedding.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
+
+My Popo loves telling her match-maker story of meeting my Mama and Yeye (fraternal grandparents) at the local Safeway and setting up their kids together over a game of mahjong.
+
+:::
+
+::: {.column width="25%"}
+### A childhood in the PNW
 
 <img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
 
@@ -40,33 +56,34 @@ I'm very lucky to have grown up surrounded by my grandparents and cousins.
 :::
 
 ::: {.column width="25%"}
-## Beach bums
+### Beach bums
 <img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
 
 Going on trips to the coast throughout my childhood reinforced my love for the beach!
 :::
 
 ::: {.column width="25%"}
-## Bookworm
+### Bookworm
 <img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 I was a big reader, especially when I was younger. I'd take my books everywhere I went: On the car, to the restaurants ... and even when I took baths (sorry Mom and Dad!)
 :::
 
 ::: {.column width="25%"}
-## A Letter to my 13 year old self
+### A Letter to my 13 year old self
 <img src="images/laufey.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 I've played the violin ever since I was 10. Watching Laufey perform with the LA Philharmonic Orchestra was nothing but short of life-changing
 :::
 
 ::: {.column width="25%"}
-## Live music
+### Live music
 <img src="images/joji.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 When I have the means and time (and money) -- I love going to live concerts. Whether it's solo or with friends. Here's a photo from one of my first concerts at a large venue, Joji at WAMU in Seattle.
 :::
 
 ::: {.column width="25%"}
-## Title
+### Title
+:::
 :::
