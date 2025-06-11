@@ -1,5 +1,7 @@
 ---
 title: "My Projects"
+image: true
+toc: true
 listing:
   contents: projectpage
   sort: false
