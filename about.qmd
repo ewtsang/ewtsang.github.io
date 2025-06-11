@@ -32,7 +32,7 @@ Outside of academics, I'm interested in learning new recipes, traditional arts, 
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
-::: {.column width="20%"}
+::: {.column width="30%"}
 ## A childhood in the PNW...
 
 <img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
@@ -41,14 +41,14 @@ I'm very lucky to have grown up surrounded by my grandparents and cousins.
 
 :::
 
-::: {.column width="20%"}
+::: {.column width="30%"}
 ## Beach bums
 <img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
 
 Going on trips to the coast throughout my childhood reinforced my love for the beach!
 :::
 
-::: {.column width="20%"}
+::: {.column width="30%"}
 ## Bookworm
 <img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
