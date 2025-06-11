@@ -1,5 +1,9 @@
 ---
 title: "About Me"
+format:
+  html:
+    toc: false
+    page-layout: full
 listing:
   sort: false
   type: grid
