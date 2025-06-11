@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/icon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -73,65 +71,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -219,21 +159,21 @@ window.Quarto = {
 <p>🎶<strong>Listen to my most recent playlist here:</strong></p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/45smoWHqpzPYzQojXw8TVx?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹</p>
-<div class="column" style="width:20%;">
+<div class="column" style="width:30%;">
 <section id="a-childhood-in-the-pnw" class="level2">
 <h2 class="anchored" data-anchor-id="a-childhood-in-the-pnw">A childhood in the PNW…</h2>
 <p><img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"></p>
 <p>I’m very lucky to have grown up surrounded by my grandparents and cousins.</p>
 </section>
 </div>
-<div class="column" style="width:20%;">
+<div class="column" style="width:30%;">
 <section id="beach-bums" class="level2">
 <h2 class="anchored" data-anchor-id="beach-bums">Beach bums</h2>
 <p><img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"></p>
 <p>Going on trips to the coast throughout my childhood reinforced my love for the beach!</p>
 </section>
 </div>
-<div class="column" style="width:20%;">
+<div class="column" style="width:30%;">
 <section id="bookworm" class="level2">
 <h2 class="anchored" data-anchor-id="bookworm">Bookworm</h2>
 <p><img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"></p>
@@ -243,333 +183,7 @@ window.Quarto = {
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="sick meals" data-listing-file-modified-sort="1748818800180" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
-<a href="./cookbook/congee/congeeindex.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-congee
-</h5>
-<div class="card-text listing-description">
-simple, but substatial
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="chicken,restaurant style" data-listing-file-modified-sort="1748818985780" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
-<a href="./cookbook/hainan-chicken/hainanindex.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-hainan chicken
-</h5>
-<div class="card-text listing-description">
-eat hot or cold!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="tips" data-listing-file-modified-sort="1748819425510" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
-<a href="./cookbook/hotpot-guide/hotpotindex.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-home guide to hot pot
-</h5>
-<div class="card-text listing-description">
-mix and match an easy dinner for yourself, or with friends!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="tips" data-listing-file-modified-sort="1749012007578" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
-<a href="./cookbook/kitchen-essentials/cookbookindex.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="cookbook\kitchen-essentials\protein.jpg" alt="protein" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Kitchen Essentials
-</h5>
-<div class="card-text listing-description">
-Here are some of the items I keep with me and are part of my weekly diet!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="shrimp,noodle,soup" data-listing-file-modified-sort="1748819547660" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
-<a href="./cookbook/tomato-shrimp/tomatoshrimpindex.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-tomato shrimp soup
-</h5>
-<div class="card-text listing-description">
-a shrimp can fry rice, and it can also make this yummy and limey soup
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1749609593882" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
-<a href="./cookbook.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="cookbook\kitchen-essentials\protein.jpg" alt="protein" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-What’s Cooking?
-</h5>
-<div class="card-text listing-description">
-👩‍🍳 Follow me along on my cooking journey!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1749608127621" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
-<a href="./CV.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-My CV
-</h5>
-<div class="card-text listing-description">
-Questions? Contact me via email!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1749606217557" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
-<a href="./index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./website_pic.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Evelyn Tsang
-</h5>
-<div class="card-text listing-description">
-I am a third-year undergraduate at the University of California, Santa Barbara, studying <strong>Environmental Studies &amp; Earth Science</strong>.;.｡🌱..
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1749004247189" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
-<a href="./projectpage/fuerte/fuerteindex.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-FUERTE
-</h5>
-<div class="card-text listing-description">
-The FUERTE program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="9" data-categories="02-2025" data-listing-file-modified-sort="1748828715457" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
-<a href="./projectpage/tetfest/tetfest-index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-UVSA Tết Festival 2025
-</h5>
-<div class="card-text listing-description">
-This year, the UVSA Tết Festival theme was “A Spring of Remembrance” or “Xuân Hoài Niệm”, to honor the efforts of the Vietnamese community in building a home abroad.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1749011413775" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
-<a href="./projectpage/tnt/tntindex.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Tide and Terra Magazine
-</h5>
-<div class="card-text listing-description">
-a UCSB mini magazine focused on communicating environmental topics- by students, from students Tide and Terra is a passion project collaboration between me and my friend…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1749011940617" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
-<a href="./projectpage/urs/ursindex/urs.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-EEMB URS Presentation
-</h5>
-<div class="card-text listing-description">
-EEMB Undergraduate Research Symposium 2024, <em>Meet the Plastics An Evaluation on Plastics Found in Freshwater Ecosystem Lakes in the Eastern Sierras</em> by Sanjana Sujeet, Evelyn…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1749610854405" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
-<a href="./projectpage.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-My Projects
-</h5>
-<div class="card-text listing-description">
-What am I up to? Check out my recent and past projects below!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1748566759692" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
-<a href="./resume.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-My Resume
-</h5>
-<div class="card-text listing-description">
-Resume/CV goes here!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1749611491631">
-<a href="./test.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<div class="card-text listing-description">
-
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1749611540967" data-listing-reading-time-sort="2" data-listing-word-count-sort="303">
-<a href="./travel.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Travel Log
-</h5>
-<div class="card-text listing-description">
-Something I want to do in the future is explore more places within and outside of west coast where I currently reside. Here is my travel checklist, including some places…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
