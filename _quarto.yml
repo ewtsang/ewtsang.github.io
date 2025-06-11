@@ -9,10 +9,15 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - projectpage.qmd
-      - cookbook.qmd
-      - CV.qmd
-      - travel.qmd
+        text: About Me
+      - href: projectpage.qmd
+        text: My Projects
+      - href: cookbook.qmd
+        text: What's Cooking?
+      - href: travel.qmd
+        text: Travel Log
+      - href: CV.qmd
+        text: My CV
 #setting theme
 format:
   html:
