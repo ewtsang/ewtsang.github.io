@@ -24,6 +24,10 @@ Outside of academics, I'm interested in learning new recipes, traditional arts, 
 ```
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+::: {.column width="30%"}
+## Story of my life
+<img src="images/tamo.png" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+:::
 
 ::: {.column width="30%"}
 ## A childhood in the PNW...
@@ -45,6 +49,16 @@ Going on trips to the coast throughout my childhood reinforced my love for the b
 ## Bookworm
 <img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
-I was a big reader, especially when I was younger. I'd take my books everywhere I went: On the car, to the restaurants, ... and even when I took baths (sorry mom and dad!)
+I was a big reader, especially when I was younger. I'd take my books everywhere I went: On the car, to the restaurants ... and even when I took baths (sorry Mom and Dad!)
 :::
 
+::: {.column width="30%"}
+## A Letter to my 13 year old self
+<img src="images/laufey.jpeg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+
+I've played the violin ever since I was 10. Watching Laufey perform with the LA Philharmonic Orchestra was nothing but short of life-changing
+:::
+
+::: {.column width="30%"}
+## Title
+:::
