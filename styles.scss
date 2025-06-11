@@ -22,8 +22,18 @@ $body-bg: $cream; // page background
 $body-color: $brown; // page text color
 $footer-bg: $blue; // footer background
 $footer-color: $cream; //footer text
-$link-color: $pink; // hyperlinks 
+$link-color: $red; // hyperlinks 
 
 // Inline code 
 $code-bg: $cream;
 $code-color: $green;
+
+/*--scss:rules--*/
+h1, h2 {
+  letter-spacing: 3px;
+  font-weight: 500;
+}
+
+.title{
+  color: $green;
+}

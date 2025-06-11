@@ -366,9 +366,9 @@
   {
     "objectID": "test.html",
     "href": "test.html",
-    "title": "About Me",
+    "title": "Here is my level one header",
     "section": "",
-    "text": "I grew up in Washington State and moved to the Central Coast in 2022 to attend UCSB, escape the rain, and bask my days in the sun ☀️\nI’m passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.\nOutside of academics, I’m interested in learning new recipes, traditional arts, and UI/UX design!\n⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹\n🎶Listen to my most recent playlist here:\n⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹ ::: columns ::: {.column width=“20%”} ## A childhood in the PNW…\nI’m very lucky to have grown up surrounded by my grandparents and cousins."
+    "text": "Here is my level one header\nHere is my first paragraph\nHere is my second paragraph, where you can read more about MEDS.\nThis is very important text!"
   },
   {
     "objectID": "test.html#beach-bums",

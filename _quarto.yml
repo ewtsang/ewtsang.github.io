@@ -5,6 +5,8 @@ website:
   title: "Evelyn Tsang"
   favicon: images/icon.png
   navbar:
+    title: false
+    logo: images/icon.png
     left:
       - href: index.qmd
         text: Home
