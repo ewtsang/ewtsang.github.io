@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 listing:
-  contents: about
   sort: false
   type: grid
   image-align: right
@@ -23,12 +22,10 @@ Outside of academics, I'm interested in learning new recipes, traditional arts, 
 
 🎶**Listen to my most recent playlist here:**
 ```{=html}
-<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/45smoWHqpzPYzQojXw8TVx?si=3285fc9df05141f9" width="100%" height="350" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/45smoWHqpzPYzQojXw8TVx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
-
-::: columns
 
 ::: {.column width="20%"}
 ## A childhood in the PNW...
@@ -53,25 +50,3 @@ Going on trips to the coast throughout my childhood reinforced my love for the b
 I was a big reader, especially when I was younger. I'd take my books everywhere I went: On the car, to the restaurants, ... and even when I took baths (sorry mom and dad!)
 :::
 
-
-::: {.column width="20%"}
-:::
-
-::: {.column width="30%"}
-:::
-
-::: {.column width="30%"}
-:::
-
-::: {.column width="30%"}
-:::
-
-::: {.column width="30%"}
-:::
-
-::: {.column width="30%"}
-:::
-
-⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
-
-Read some blog posts below:
