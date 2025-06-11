@@ -1,9 +1,56 @@
 ---
-title: "hainan chicken"
-categories: [chicken, restaurant style]
-description: eat hot or cold!
+title: "Scallion Oil Poached Chicken"
+categories: [chicken]
+description: A classic delicious poached chicken and rice meal
 format: html
 ---
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
-tip:
-use the chicken stock after for congee or add vegetables and make soup
+This recipe was adapted from daigasikfaan, who named this her **"Marry Me Chicken"**. It uses a Cantonese poaching method that lets the chicken sit in residual heat, resulting in a perfectly soft and tender meat.
+
+[![Scallion Oil Poached Chicken Recipe by Daigasiikfan](https://i0.wp.com/daigasikfaan.co/wp-content/uploads/2024/02/IMG_2081.jpg?w=800&ssl=1){fig-align="center"}](https://daigasikfaan.co/scallion-oil-poached-chicken/)
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+## Ingredients
+
+### For the chicken
+
+-   [ ] 2-3 drumsticks
+-   [ ] 3-4 slices of ginger
+-   [ ] 1 green onion
+-   [ ] 1/2 tbsp Shaoxing cooking wine
+
+### For the oil
+
+-   [ ] 3 tbsp vegetable oil
+-   [ ] 1-2 slices of ginger
+-   [ ] 1 green onions
+-   [ ] 1/2 shallot
+-   [ ] 1 tbsp light soy sauce
+-   [ ] 1 tbsp oyster sauce
+-   [ ] 1/2 tsp sugar
+
+## Steps
+
+1.  In a pot of **cold** water, add the drumsticks, ginger, green onions, and splash of Shaoxing cooking wine.
+
+2.  Bring the water to a boil, then reduce heat to low, and simmer for another 8 minutes with the lid on. Turn off the heat, keeping the lid covered, and let the chicken sit in residual heat for 15 minutes.
+
+::: {.callout-note title="Tip"}
+While the water is boiling, wash and cook your rice.
+:::
+
+3.  Dunk the chicken in a bowl of ice water then shred the chicken using your hands and place on your serving plate.
+
+::: {.callout-note title="Tip"}
+The ice water helps tighten the skin, giving a smooth texture while locking in moisture.
+:::
+
+4.  In a saucepan, add the oil, and turn the heat to low. Add the ginger, green onions, and shallots. Cook until golden brown.
+
+::: {.callout-note title="Tip"}
+Cooking the aromatics slowly results in a fragrant and golden oil that brings the dish together!
+:::
+
+5.  Turn off the heat and mix the oil with oyster sauce, soy sauce, and sugar. Drizzle this mixture over the chicken and enjoy with rice!

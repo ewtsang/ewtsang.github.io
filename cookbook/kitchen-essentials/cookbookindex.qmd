@@ -8,6 +8,7 @@ format: html
 ## In the fridge/freezer
 
 ### 🍖 Protein
+
 ![protein](protein.jpg){.lightbox}
 
 ### 🥕 Veggies
