@@ -28,6 +28,7 @@ format:
     #/disabled/respect-user-color-scheme: true
     #honors the user's operating system or browser preference for light or dark mode
     theme: styles.scss
+    mainfont: Sono
       #/disabled/light: litera
       #/disabled/dark: solar
     toc: true
