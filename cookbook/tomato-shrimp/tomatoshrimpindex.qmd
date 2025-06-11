@@ -1,8 +1,61 @@
 ---
-title: "tomato shrimp soup"
-categories: [shrimp, noodle,soup]
-description: a shrimp can fry rice, and it can also make this yummy and limey soup  
+title: "Korean Seafood Pancakes (Haemul Pajeon)"
+categories: [seafood]
+description: Easy to make and great for when you need to use up the last couple pieces of shrimp/seafood!
 format: html
 ---
 
-not a big fan of cilantro? this may not be for you
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+This crispy seafood pancake ('Haemul Pajeon' in Korean) is a popular savory pancake in South Korea and it's made of a simple batter featuring seafood and green onions.
+
+![Korean Seafood Pancake (Haemul Pajeon)](https://christieathome.com/wp-content/uploads/2024/03/Korean-Seafood-Pancake19-768x1020.jpg){fig-align="center"}
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+## Ingredients
+Makes ~5 pancakes
+
+### Pancakes
+-   [ ] ~1/2 cup seafood, chopped
+-   [ ] 2 green onions, chopped
+-   [ ] 1 tbsp carrot, chopped
+-   [ ] 1/4 cup flour
+-   [ ] 1/4 cup potato starch
+-   [ ] 1/2 tbsp baking powder
+-   [ ] 1/4 cup *cold* water
+-   [ ] 1/2 tbsp fish sauce
+-   [ ] 1/2 tbsp chicken boullion powder
+-   [ ] 1/2 tbsp garlic powder
+-   [ ] 1/2 tbsp onion powder
+-   [ ] salt and pepper to taste
+-   [ ] 1 tbsp sesame oil
+-   [ ] vegetable oil, as needed
+
+### Dipping sauce
+-   [ ] 2 tbsp soy sauce
+-   [ ] 2 tbsp rice vinegar
+-   [ ] 1/2 tbsp sesame oil
+-   [ ] 1/2 green onion, chopped
+
+## Steps
+
+1. Pat dry seafood and vegetables. Prepare and chop to size (I prefer 2in matchsticks) 
+
+2. In a large bowl, whisk together dry ingredients, Then add vegetables and seafood with **cold** water and mix until combined.
+
+2. Heat a large skillet over medium heat and add enough vegetable oil to coat evenly
+
+3. Pour mixture into an even thin (~1/2 in) layer on the skillet.
+
+4. After about 5 minutes, the bottom of the pancakes will become crunchy -- gently flip over
+
+5. Cook another 5 minutes and flip. Repeat until both sides are a light golden brown. Transfer to ctting board Keep making pancakes until the batter is used up!
+
+::: {.callout-note title="Tip"}
+Clean the skillet with paper towels between batches
+:::
+
+6. Slice pancakes into wedges and transfer to large serving plate.
+
+7. In a small bowl, combine depping sauce ingredients and serve with pancake.
