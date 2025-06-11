@@ -1,11 +1,8 @@
 project:
   type: website
   output-dir: docs
-
 website:
-  title: false
-    logo: images/icon.png
-    logo-alt: "Evelyn Tsang"
+  title: "Evelyn Tsang"
   favicon: images/icon.png
   navbar:
     left:
@@ -33,7 +30,7 @@ format:
     theme: 
       light: litera
       dark: solar
-    css: styles.css
+    css: styles.scss
     toc: true
     page-layout: full
 
