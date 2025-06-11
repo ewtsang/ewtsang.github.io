@@ -2,6 +2,7 @@
 title: "About Me"
 format:
   html:
+    allow-html: true
     toc: false
     page-layout: full
 listing:
