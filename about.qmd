@@ -13,22 +13,63 @@ freeze: auto
 editor: source
 ---
 
-
 I grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun. ☀️
 
 I'm passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.
 
 Outside of academics, I'm interested in learning new recipes, traditional arts, and UI/UX design!
 
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
-You can also find my resume [here](https://docs.google.com/document/d/1wDDSPpHPegMAnVRD2VCqW2HDpQqcA-oxd_Md09W9RoU/edit?usp=sharing)
+Listen to my most recent playlist here:
+```{=html}
 
-------------------------------------------------------------------------
+<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/45smoWHqpzPYzQojXw8TVx?si=3285fc9df05141f9" width="100%" height="350" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
 
-![I’ve always loved exploring the coast. Pictured are my younger brother, Roland and I playing with sand at Canon Beach, OR – We often took short weekend vacations or day trips to the coast. The water was cold, so I spent most of my time building sandcastles or peering into tidepools.](images/beachday.jpg){group="my-gallery"}
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
-![When I find the time, I like to egg my friends to take nature walks with me. My favorite hike I have taken nearby was definitely the Gaviota Wind Caves. It involved a lot of scaling near the top, but the view was worth it!](images/gaviota.jpg){group="my-gallery"}
+::: columns
 
-------------------------------------------------------------------------
+::: {.column width="30%"}
+## A childhood in the PNW...
 
-Check out what else I'm up to:
+<img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
+
+I'm very to have grown up surrounded by my grandparents and cousins.
+
+:::
+
+::: {.column width="30%"}
+## Beach bums
+<img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
+
+
+:::
+
+::: {.column width="30%"}
+## Bookworm
+
+<img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+
+I was a big reader, especially when I was younger. I'd take my books everywhere I went: On the car, to the restaurants, ... and even when I took baths (sorry mom and dad!)
+:::
+
+
+::: {.column width="30%"}
+:::
+
+::: {.column width="30%"}
+:::
+
+::: {.column width="30%"}
+:::
+
+::: {.column width="30%"}
+:::
+
+::: {.column width="30%"}
+:::
+
+::: {.column width="30%"}
+:::
