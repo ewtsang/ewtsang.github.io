@@ -3,10 +3,10 @@ project:
   output-dir: docs
 website:
   title: "Evelyn Tsang"
-  favicon: images/icon.png
+  favicon: images/icon-color.png
   navbar:
     title: false
-    logo: images/icon.png
+    logo: images/icon-color.png
     left:
       - href: index.qmd
         text: Home
