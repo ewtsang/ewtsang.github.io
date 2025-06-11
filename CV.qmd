@@ -4,6 +4,9 @@ format:
   html:
     allow-html:
 ---
+Questions? Contact me via email!
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
 <iframe src="CV/ETResumeMay2025.pdf" width="100%" height="600px" style="border: none;">
 
@@ -13,4 +16,3 @@ This browser does not support PDFs. Please download the file:
 
 <iframe>
 
-Questions? Contact me at ewtsang@ucsb.edu

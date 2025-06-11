@@ -1,14 +1,13 @@
 [
   {
     "listing": "/about.html",
-    "items": [
-      "/about/fuerte/fuerteindex.html",
-      "/about/tetfest/tetfest-index.html"
-    ]
+    "items": []
   },
   {
     "listing": "/projectpage.html",
     "items": [
+      "/projectpage/fuerte/fuerteindex.html",
+      "/projectpage/tetfest/tetfest-index.html",
       "/projectpage/tnt/tntindex.html",
       "/projectpage/urs/ursindex/urs.html"
     ]

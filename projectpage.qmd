@@ -14,8 +14,7 @@ editor: source
 format: html
 ---
 
--   Tide and Terra Magazine (Draft 1)
+What am I up to? Check out my recent and past projects below!
 
--   EEMB Undergraduate Research Symposium 2024, Meet the Plastics An Evaluation on Plastics Found in Freshwater Ecosystem Lakes in the Eastern Sierras Sanjana Sujeet, Evelyn Tsang, & Becca Reynolds
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
--   193 DS Spring 2025 Coding Project (Tracking Family Communications – Calling, Video Chats)

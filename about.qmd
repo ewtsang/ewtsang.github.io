@@ -13,7 +13,7 @@ freeze: auto
 editor: source
 ---
 
-I grew up in the PNW and moved to the Central Coast to attend UCSB, escape the rain, and bask my days in the sun. ☀️
+I grew up in Washington State and moved to the Central Coast in 2022 to attend UCSB, escape the rain, and bask my days in the sun ☀️
 
 I'm passionate about conservation science, marine biology, and climate outreach and education with experience working in research labs + non-profits.
 
@@ -21,9 +21,8 @@ Outside of academics, I'm interested in learning new recipes, traditional arts, 
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
-Listen to my most recent playlist here:
+🎶**Listen to my most recent playlist here:**
 ```{=html}
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/playlist/45smoWHqpzPYzQojXw8TVx?si=3285fc9df05141f9" width="100%" height="350" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 
@@ -31,32 +30,31 @@ Listen to my most recent playlist here:
 
 ::: columns
 
-::: {.column width="30%"}
+::: {.column width="20%"}
 ## A childhood in the PNW...
 
 <img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
 
-I'm very to have grown up surrounded by my grandparents and cousins.
+I'm very lucky to have grown up surrounded by my grandparents and cousins.
 
 :::
 
-::: {.column width="30%"}
+::: {.column width="20%"}
 ## Beach bums
 <img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
 
-
+Going on trips to the coast throughout my childhood reinforced my love for the beach!
 :::
 
-::: {.column width="30%"}
+::: {.column width="20%"}
 ## Bookworm
-
 <img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 I was a big reader, especially when I was younger. I'd take my books everywhere I went: On the car, to the restaurants, ... and even when I took baths (sorry mom and dad!)
 :::
 
 
-::: {.column width="30%"}
+::: {.column width="20%"}
 :::
 
 ::: {.column width="30%"}
@@ -73,3 +71,7 @@ I was a big reader, especially when I was younger. I'd take my books everywhere 
 
 ::: {.column width="30%"}
 :::
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+Read some blog posts below:
