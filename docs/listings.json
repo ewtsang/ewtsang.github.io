@@ -38,5 +38,26 @@
       "/cookbook/kitchen-essentials/cookbookindex.html",
       "/cookbook/tomato-shrimp/tomatoshrimpindex.html"
     ]
+  },
+  {
+    "listing": "/test.html",
+    "items": [
+      "/about.html",
+      "/cookbook/congee/congeeindex.html",
+      "/cookbook/hainan-chicken/hainanindex.html",
+      "/cookbook/hotpot-guide/hotpotindex.html",
+      "/cookbook/kitchen-essentials/cookbookindex.html",
+      "/cookbook/tomato-shrimp/tomatoshrimpindex.html",
+      "/cookbook.html",
+      "/CV.html",
+      "/index.html",
+      "/projectpage/fuerte/fuerteindex.html",
+      "/projectpage/tetfest/tetfest-index.html",
+      "/projectpage/tnt/tntindex.html",
+      "/projectpage/urs/ursindex/urs.html",
+      "/projectpage.html",
+      "/resume.html",
+      "/travel.html"
+    ]
   }
 ]

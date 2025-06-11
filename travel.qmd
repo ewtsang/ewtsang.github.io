@@ -1,5 +1,5 @@
 ---
-title: "Travel Checklist"
+title: "Travel Log"
 format:
   html:
     toc: false
