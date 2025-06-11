@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Evelyn Tsang"
-  favicon: images\icon.png
+  favicon: images/icon.png
   navbar:
     left:
       - href: index.qmd
