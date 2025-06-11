@@ -25,12 +25,11 @@ website:
 
 format:
   html:
-    respect-user-color-scheme: true
+    #/disabled/respect-user-color-scheme: true
     #honors the user's operating system or browser preference for light or dark mode
-    theme: 
-      light: litera
-      dark: solar
-    css: styles.scss
+    theme: styles.scss
+      #/disabled/light: litera
+      #/disabled/dark: solar
     toc: true
     page-layout: full
 
