@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Evelyn Tsang"
+  favicon: \Users\ewtsa\Documents\ENVS-193DS\GitHub\Personal-Website\ewtsang.github.io\images\icon.png
   navbar:
     left:
       - href: index.qmd

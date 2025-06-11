@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href=".//Users/ewtsa/Documents/ENVS-193DS/GitHub/Personal-Website/ewtsang.github.io/images/icon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -43,6 +44,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -167,12 +170,12 @@ window.Quarto = {
 <span class="menu-text">What’s Cooking?</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV.html"> 
-<span class="menu-text">My CV</span></a>
+    <a class="nav-link" href="./travel.html"> 
+<span class="menu-text">Travel Log</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./travel.html"> 
-<span class="menu-text">Travel Checklist</span></a>
+    <a class="nav-link" href="./CV.html"> 
+<span class="menu-text">My CV</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -186,8 +189,16 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#a-childhood-in-the-pnw" id="toc-a-childhood-in-the-pnw" class="nav-link active" data-scroll-target="#a-childhood-in-the-pnw">A childhood in the PNW…</a></li>
+  <li><a href="#beach-bums" id="toc-beach-bums" class="nav-link" data-scroll-target="#beach-bums">Beach bums</a></li>
+  <li><a href="#bookworm" id="toc-bookworm" class="nav-link" data-scroll-target="#bookworm">Bookworm</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -216,46 +227,358 @@ window.Quarto = {
 <p>Outside of academics, I’m interested in learning new recipes, traditional arts, and UI/UX design!</p>
 <p>⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹</p>
 <p>🎶<strong>Listen to my most recent playlist here:</strong></p>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/45smoWHqpzPYzQojXw8TVx?si=3285fc9df05141f9" width="100%" height="350" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/45smoWHqpzPYzQojXw8TVx?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹</p>
-<div class="columns">
-<div class="column" style="width:30%;">
+<div class="column" style="width:20%;">
 <section id="a-childhood-in-the-pnw" class="level2">
 <h2 class="anchored" data-anchor-id="a-childhood-in-the-pnw">A childhood in the PNW…</h2>
 <p><img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"></p>
 <p>I’m very lucky to have grown up surrounded by my grandparents and cousins.</p>
 </section>
-</div><div class="column" style="width:30%;">
+</div>
+<div class="column" style="width:20%;">
 <section id="beach-bums" class="level2">
 <h2 class="anchored" data-anchor-id="beach-bums">Beach bums</h2>
 <p><img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"></p>
 <p>Going on trips to the coast throughout my childhood reinforced my love for the beach!</p>
 </section>
-</div><div class="column" style="width:30%;">
+</div>
+<div class="column" style="width:20%;">
 <section id="bookworm" class="level2">
 <h2 class="anchored" data-anchor-id="bookworm">Bookworm</h2>
 <p><img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"></p>
 <p>I was a big reader, especially when I was younger. I’d take my books everywhere I went: On the car, to the restaurants, … and even when I took baths (sorry mom and dad!)</p>
 </section>
-</div><div class="column" style="width:30%;">
-
-</div><div class="column" style="width:30%;">
-
-</div><div class="column" style="width:30%;">
-
-</div><div class="column" style="width:30%;">
-
-</div><div class="column" style="width:30%;">
-
-</div><div class="column" style="width:30%;">
-
-</div><p>⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹</p><p>Read some blog posts below:</p>
 </div>
+
+
+
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="sick meals" data-listing-file-modified-sort="1748818800180" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<a href="./cookbook/congee/congeeindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+congee
+</h5>
+<div class="card-text listing-description">
+simple, but substatial
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="chicken,restaurant style" data-listing-file-modified-sort="1748818985780" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
+<a href="./cookbook/hainan-chicken/hainanindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+hainan chicken
+</h5>
+<div class="card-text listing-description">
+eat hot or cold!
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="tips" data-listing-file-modified-sort="1748819425510" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<a href="./cookbook/hotpot-guide/hotpotindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+home guide to hot pot
+</h5>
+<div class="card-text listing-description">
+mix and match an easy dinner for yourself, or with friends!
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="tips" data-listing-file-modified-sort="1749012007578" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
+<a href="./cookbook/kitchen-essentials/cookbookindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="cookbook\kitchen-essentials\protein.jpg" alt="protein" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kitchen Essentials
+</h5>
+<div class="card-text listing-description">
+Here are some of the items I keep with me and are part of my weekly diet!
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="shrimp,noodle,soup" data-listing-file-modified-sort="1748819547660" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<a href="./cookbook/tomato-shrimp/tomatoshrimpindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+tomato shrimp soup
+</h5>
+<div class="card-text listing-description">
+a shrimp can fry rice, and it can also make this yummy and limey soup
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1749609593882" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
+<a href="./cookbook.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="cookbook\kitchen-essentials\protein.jpg" alt="protein" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What’s Cooking?
+</h5>
+<div class="card-text listing-description">
+👩‍🍳 Follow me along on my cooking journey!
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1749608127621" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
+<a href="./CV.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+My CV
+</h5>
+<div class="card-text listing-description">
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1749606217557" data-listing-reading-time-sort="1" data-listing-word-count-sort="117">
+<a href="./index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./website_pic.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Evelyn Tsang
+</h5>
+<div class="card-text listing-description">
+I am a third-year undergraduate at the University of California, Santa Barbara, studying <strong>Environmental Studies &amp; Earth Science</strong>.;.｡🌱..
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1749004247189" data-listing-reading-time-sort="2" data-listing-word-count-sort="234">
+<a href="./projectpage/fuerte/fuerteindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FUERTE
+</h5>
+<div class="card-text listing-description">
+The FUERTE program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="02-2025" data-listing-file-modified-sort="1748828715457" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+<a href="./projectpage/tetfest/tetfest-index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UVSA Tết Festival 2025
+</h5>
+<div class="card-text listing-description">
+This year, the UVSA Tết Festival theme was “A Spring of Remembrance” or “Xuân Hoài Niệm”, to honor the efforts of the Vietnamese community in building a home abroad.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1749011413775" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
+<a href="./projectpage/tnt/tntindex.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tide and Terra Magazine
+</h5>
+<div class="card-text listing-description">
+a UCSB mini magazine focused on communicating environmental topics- by students, from students Tide and Terra is a passion project collaboration between me and my friend…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1749011940617" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
+<a href="./projectpage/urs/ursindex/urs.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+EEMB URS Presentation
+</h5>
+<div class="card-text listing-description">
+EEMB Undergraduate Research Symposium 2024, <em>Meet the Plastics An Evaluation on Plastics Found in Freshwater Ecosystem Lakes in the Eastern Sierras</em> by Sanjana Sujeet, Evelyn…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1749609260784" data-listing-reading-time-sort="1" data-listing-word-count-sort="18">
+<a href="./projectpage.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+My Projects
+</h5>
+<div class="card-text listing-description">
+What am I up to? Check out my recent and past projects below!
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1748566759692" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<a href="./resume.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+My Resume
+</h5>
+<div class="card-text listing-description">
+Resume/CV goes here!
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1749092288974" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<a href="./test.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Map Test
+</h5>
+<div class="card-text listing-description">
+
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1749608786908" data-listing-reading-time-sort="2" data-listing-word-count-sort="303">
+<a href="./travel.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Travel Checklist
+</h5>
+<div class="card-text listing-description">
+Something I want to do in the future is explore more places within and outside of west coast where I currently reside. Here is my travel checklist, including some places…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -826,6 +1149,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Copyright 2025, Evelyn Tsang</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>This website is built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i>, <a href="https://github.com/samanthacsik/samanthacsik.github.io" target="_blank"><i class="fa-brands fa-github" title="GitHub octocat logo" aria-label="github"></i></a>, <a href="https://www.r-project.org/about.html" target="_blank"><i class="fa-brands fa-r-project" title="R Project" aria-label="r-project"></i></a> and <a href="https://quarto.org/" target="_blank">Quarto</a></p>
+</div>
+  </div>
+</footer>
 
 
 

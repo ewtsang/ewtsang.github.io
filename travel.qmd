@@ -11,6 +11,8 @@ format:
 
 Something I want to do in the future is explore more places within and outside of west coast where I currently reside. Here is my travel checklist, including some places I've been to already!
 
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
 Gallery is located below the interactive map.
 
 ::: {#mymap style="height: 500px;"}
@@ -30,13 +32,13 @@ Gallery is located below the interactive map.
       {
         coords: [34.413278, -119.845958],
         name: "✅ University of California, Santa Barbara",
-        img: "travelpics/santabarbara.jpg",
+        img: "ewtsang.github.io/images/sbartmuseum.jpg",
         desc: "Where I go to school!"
       },
       {
         coords: [34.420171, -119.700230],
         name: "✅Santa Barbara, CA ",
-        img: "images/dtsb.jpg",
+        img: "ewtsang.github.io/images/dtsb.jpg",
         desc: "An evening spent on State Street is always a fun one."
       },
       
