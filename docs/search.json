@@ -319,7 +319,7 @@
     "href": "about.html#bookworm",
     "title": "About Me",
     "section": "Bookworm",
-    "text": "Bookworm\n\nI was a big reader, especially when I was younger. I’d take my books everywhere I went: On the car, to the restaurants, … and even when I took baths (sorry mom and dad!)"
+    "text": "Bookworm\n\nI was a big reader, especially when I was younger. I’d take my books everywhere I went: On the car, to the restaurants … and even when I took baths (sorry Mom and Dad!)"
   },
   {
     "objectID": "projectpage/fuerte/fuerteindex.html",
@@ -397,5 +397,19 @@
     "title": "About Me",
     "section": "A Letter to my 13 year old self",
     "text": "A Letter to my 13 year old self\n\nI’ve played the violin ever since I was 10. Watching Laufey perform with the LA Philharmonic Orchestra was nothing but short of life-changing"
+  },
+  {
+    "objectID": "about.html#story-of-my-life",
+    "href": "about.html#story-of-my-life",
+    "title": "About Me",
+    "section": "Story of my life",
+    "text": "Story of my life"
+  },
+  {
+    "objectID": "about.html#live-music",
+    "href": "about.html#live-music",
+    "title": "About Me",
+    "section": "Live music",
+    "text": "Live music\n\nWhen I have the means and time (and money) – I love going to live concerts. Whether it’s solo or with friends. Here’s a photo from one of my first concerts at a large venue, Joji at WAMU in Seattle."
   }
 ]

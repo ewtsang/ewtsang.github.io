@@ -24,6 +24,7 @@ Outside of academics, I'm interested in learning new recipes, traditional arts, 
 ```
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
 ::: {.column width="30%"}
 ## Story of my life
 <img src="images/tamo.png" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
@@ -54,9 +55,16 @@ I was a big reader, especially when I was younger. I'd take my books everywhere 
 
 ::: {.column width="30%"}
 ## A Letter to my 13 year old self
-<img src="images/laufey.jpeg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+<img src="images/laufey.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 I've played the violin ever since I was 10. Watching Laufey perform with the LA Philharmonic Orchestra was nothing but short of life-changing
+:::
+
+::: {.column width="30%"}
+## Live music
+<img src="images/joji.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+
+When I have the means and time (and money) -- I love going to live concerts. Whether it's solo or with friends. Here's a photo from one of my first concerts at a large venue, Joji at WAMU in Seattle.
 :::
 
 ::: {.column width="30%"}

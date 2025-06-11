@@ -3,7 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "Evelyn Tsang"
+  title: false
+    logo: images/icon.png
+    logo-alt: "Evelyn Tsang"
   favicon: images/icon.png
   navbar:
     left:
