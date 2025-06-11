@@ -5,13 +5,6 @@ format:
     allow-html: true
     toc: false
     page-layout: full
-listing:
-  sort: false
-  type: grid
-  image-align: right
-  max-description-length: 175
-  date-format: medium
-  categories: false
 page-layout: article
 freeze: auto
 editor: source
