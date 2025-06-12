@@ -14,7 +14,7 @@ format: html
 
 ![Entrance to SNARL](/images/snarl.jpg){fig-align="center" width="188"}
 
-The [FUERTE](https://fuerte.eemb.ucsb.edu/) program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed to build a foundation to succeed at the university and to develop the skills needed for a career in conservation and environmental sciences, areas that specifically involve fieldwork when doing research.
+Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed to build a foundation to succeed at the university and to develop the skills needed for a career in conservation and environmental sciences, areas that specifically involve fieldwork when doing research.
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
