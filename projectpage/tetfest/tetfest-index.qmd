@@ -2,6 +2,8 @@
 title: "UVSA Tết Festival 2025"
 toc: false
 categories: [Marketing, Winter 2025]
+description: This year, the UVSA Tết Festival theme was “A Spring of Remembrance” or “Xuân Hoài Niệm”, to honor the efforts of the Vietnamese community in building a home abroad.
+image: allstaff.jpg
 about:
   template: jolla
   links: 

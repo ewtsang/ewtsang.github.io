@@ -110,6 +110,3 @@ Hazel's favorite thing to eat are bannanas and bread.
 When I have the means and time (and money) -- I love going to live concerts. Whether it's solo or with friends. Here's a photo from one of my first concerts at a large venue, Joji at WAMU in Seattle.
 :::
 
-::: {.column width="25%"}
-### 
-:::
