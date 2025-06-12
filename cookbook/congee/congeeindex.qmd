@@ -1,12 +1,70 @@
 ---
-title: "congee"
-description: simple, but substatial
-categories: [sick meals]
+title: "Congee"
+categories: [Easy]
+description: A classic delicious poached chicken and rice meal
 format: html
 ---
 
-history of congee
+![](https://christieathome.com/wp-content/uploads/2022/11/Chicken-Congee-32.jpg){fig-align="center"}
 
-different iterations
+T⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
- 
+This comforting Chicken Congee recipe is inspired by my dad’s Cantonese cooking style — a dish he perfected with a deep sense of patience and love. It's warming, easy to digest, and the ultimate cozy meal.
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+## Ingredients
+
+-   [ ] 1 rice cup of white rice
+-   [ ] 8 cups water
+-   [ ] 12 oz chicken (breast or thigh), thinly sliced
+-   [ ] 1 tbsp oyster sauce
+-   [ ] 2 tsp cornstarch
+-   [ ] 2 tbsp water
+-   [ ] 0.5 tsp chicken bouillon (for marinade)
+-   [ ] 2 tbsp vegetable oil
+-   [ ] 0.5 oz ginger, thinly sliced into matchsticks
+-   [ ] 2 green onions, finely chopped
+-   [ ] 1 bunch cilantro, roughly chopped
+-   [ ] 1 tsp salt
+-   [ ] 1 tsp chicken bouillon (for congee)
+
+## Steps
+
+1.  Before anything else, give your rice a good rinse in a bowl of water.
+
+-   Fill the bowl with water
+-   Massage and swirl the grains with your hand
+-   Drain and repeat 2–3 times
+
+::: {.callout-note title="Why wash?"}
+Washing removes extra starch and dirt, preventing the congee from becoming too gummy.
+:::
+
+2.  Boil 8 cups of water in a large pot while you prep your aromatics. Thinly slice ginger into matchsticks, and then chop green onions and cilantro
+
+3.  Marinate the Chicken: Place the thinly sliced chicken in a bowl and marinate combining the oyster sauce, cornstarch, chicken boullion, and water for 30 seconds. Then add the vegetable oil and stir until glossy.
+
+::: {.callout-tip title="Velveting Technique"}
+The cornstarch + oil coating locks in moisture and keeps the chicken tender, just like at Cantonese restaurants.
+:::
+
+4.  Once the pot is boiling, add the rinsed rice. Stir gently once.
+
+::: {.callout-note title="Don't stir again!"}
+Once it’s boiling again, stirring can cause the rice to stick to the bottom.
+:::
+
+5.  Lower the heat to medium and partially cover. Let simmer for 25 minutes, or longer depending on your stove. This is the base of your congee — the silky rice-to-water blend known as jūk dái.
+
+6.  After simmering, whisk vigorously for 2–3 minutes to break down the grains. If the rice is still solid, continue cooking for 10 more minutes.
+
+::: {.callout-tip title="No whisk?"}
+If you don’t have a whisk, use a wooden spoon and simmer for 10–20 minutes more.
+:::
+
+7.  Raise the heat to high. Add the marinated chicken slowly while stirring, over 30–60 seconds. Stir for another 2 minutes until chicken is fully cooked.
+
+8.  Add your sliced ginger, 1 tsp salt, and 1 tsp chicken bouillon. Stir and cook for 30 seconds.
+
+9.  Turn off the heat and serve hot. Garnish each bowl with green onion and cilantro

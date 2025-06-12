@@ -1,7 +1,7 @@
 ---
-title: "Scallion Oil Poached Chicken"
-categories: [chicken]
-description: A classic delicious poached chicken and rice meal
+title: "Chicken Congee"
+categories: [Chicken]
+description: Classic poached chicken and rice meal
 format: html
 ---
 
@@ -15,16 +15,7 @@ This recipe was adapted from daigasikfaan, who named this her **"Marry Me Chicke
 
 ## Ingredients
 
-### For the chicken
-
--   [ ] 2-3 drumsticks
--   [ ] 3-4 slices of ginger
--   [ ] 1 green onion
--   [ ] 1/2 tbsp Shaoxing cooking wine
-
-### For the oil
-
--   [ ] 3 tbsp vegetable oil
+-   [ ] 1 cup white rice
 -   [ ] 1-2 slices of ginger
 -   [ ] 1 green onions
 -   [ ] 1/2 shallot
