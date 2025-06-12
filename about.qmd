@@ -19,18 +19,17 @@ Outside of academics, I'm interested in learning new recipes, traditional arts, 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
 🎶**Listen to my most recent playlist here:**
+
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/45smoWHqpzPYzQojXw8TVx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
-::: {.center-columns}
-
 ::: {.column width="25%"}
 ### Our Immigration Story
 
-<img src="images/grandparents.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+<img src="images/grandparents.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;" class="rectangle-img"/>
 
 My maternal grandparents (pictured above) immigrated to the United States in the 1980s, where my mom and her 5 siblings finished their schooling in Vancouver, WA.
 
@@ -40,30 +39,46 @@ My fraternal grandparents immigrated a decade before, but to the east coast, and
 ::: {.column width="25%"}
 ### Mom and Dad
 
-<img src="images/wedding.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
+<img src="images/wedding.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 My Popo loves telling her match-maker story of meeting my Mama and Yeye (fraternal grandparents) at the local Safeway and setting up their kids together over a game of mahjong.
 
+My dad had recently moved to Washington and was working designing computer chips. My mom was a recent graduate with an Accounting degree. 
 :::
 
 ::: {.column width="25%"}
 ### A childhood in the PNW
 
-<img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
+<img src="images/archive3.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
-I'm very lucky to have grown up surrounded by my grandparents and cousins.
+I'm very lucky to have grown up surrounded by my family, seeing my grandparents, aunts, uncles, and cousins on a weekly basis in my childhood.
 
+Looking back now, I am very grateful and privileged to have had family so close by, and to have had many role models.
 :::
 
 ::: {.column width="25%"}
 ### Beach bums
-<img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/> 
+
+<img src="images/archive4.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 Going on trips to the coast throughout my childhood reinforced my love for the beach!
+
+The family favorite was Canon Beach on the Oregon Coast.
+:::
+
+::: {.column width="25%"}
+### Didi
+
+<img src="images/beachday.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+
+My little brother, my *Didi* has always been very artistic and has a lot of creative talent. He's currently a junior in highschool.
+
+I'm very lucky to be an older sister! (I like forcing him to play Minecraft with me)
 :::
 
 ::: {.column width="25%"}
 ### Bookworm
+
 <img src="images/archive1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 I was a big reader, especially when I was younger. I'd take my books everywhere I went: On the car, to the restaurants ... and even when I took baths (sorry Mom and Dad!)
@@ -71,19 +86,30 @@ I was a big reader, especially when I was younger. I'd take my books everywhere 
 
 ::: {.column width="25%"}
 ### A Letter to my 13 year old self
+
 <img src="images/laufey.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 I've played the violin ever since I was 10. Watching Laufey perform with the LA Philharmonic Orchestra was nothing but short of life-changing
 :::
 
 ::: {.column width="25%"}
+### Hazel
+
+<img src="images/hazel1.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
+
+On a random Tuesday, my parents texted me we had a surprise waiting at home after school. Turns out they decided to (uncharacteristically) adopt a cat from the Humane Society on whim. 
+
+Hazel's favorite thing to eat are bannanas and bread.
+:::
+
+::: {.column width="25%"}
 ### Live music
+
 <img src="images/joji.jpg" alt="My photo" style="width:150px; height:150px; border-radius:50%;"/>
 
 When I have the means and time (and money) -- I love going to live concerts. Whether it's solo or with friends. Here's a photo from one of my first concerts at a large venue, Joji at WAMU in Seattle.
 :::
 
 ::: {.column width="25%"}
-### Title
-:::
+### 
 :::
