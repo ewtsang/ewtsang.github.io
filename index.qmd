@@ -17,6 +17,7 @@ about:
     - icon: envelope
       text: Email
       href: mailto:ewtsang@ucsb.edu
+      target: "_blank"
 editor: source
 ---
 # Hello!
