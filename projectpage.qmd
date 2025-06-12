@@ -4,7 +4,7 @@ image: true
 toc: true
 listing:
   contents: projectpage
-  sort: false
+  sort: true
   type: grid
   image-align: right
   max-description-length: 100
