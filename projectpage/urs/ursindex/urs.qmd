@@ -1,6 +1,22 @@
 ---
 title: "EEMB URS Presentation"
-format: html
+categories: [Research]
+description: EEMB Undergraduate Research Symposium 2024, Meet the Plastics An Evaluation on Plastics Found in Freshwater Ecosystem Lakes in the Eastern Sierras by Sanjana Sujeet, Evelyn Tsang, & Becca Reynolds
+format: 
+  html:
+    allow-html:
 ---
 
-EEMB Undergraduate Research Symposium 2024, *Meet the Plastics An Evaluation on Plastics Found in Freshwater Ecosystem Lakes in the Eastern Sierras* by Sanjana Sujeet, Evelyn Tsang, & Becca Reynolds
+# Awarded Best Poster 2024
+
+![First time presenting at a symposium!](/images/plastics2.jpg){fig-align="center" width="333"}
+
+⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
+
+<iframe src="projectpage/urs/URS.pdf" width="100%" height="600px" style="border: none;">
+
+This browser does not support PDFs. Please download the file:
+
+<a href="projectpage/urs/URS.pdf">Download PDF</a>.
+
+<iframe>
