@@ -7,13 +7,11 @@ format:
     include-before-body: leaflet-head.Rhtml
 ---
 
-## My Travel Map
+## My Travel Log
 
-Something I want to do in the future is explore more places within and outside of west coast where I currently reside. Here is my travel checklist, including some places I've been to already!
+Something I want to do in the future is explore more places within and outside of west coast where I currently reside. Here is my travel checklist, including some places I've been to already! ✈️
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
-
-Gallery is located below the interactive map.
 
 ::: {#mymap style="height: 500px;"}
 :::
@@ -32,16 +30,55 @@ Gallery is located below the interactive map.
       {
         coords: [34.413278, -119.845958],
         name: "✅ University of California, Santa Barbara",
-        img: "ewtsang.github.io/images/sbartmuseum.jpg",
-        desc: "Where I go to school!"
+        img: "images/sbartmuseum.jpg",
+        desc: "Where I go to school! Known for its science & engineering programs, this public university is situated close to beaches."
       },
       {
         coords: [34.420171, -119.700230],
         name: "✅Santa Barbara, CA ",
-        img: "ewtsang.github.io/images/dtsb.jpg",
+        img: "images/dtsb.jpg",
         desc: "An evening spent on State Street is always a fun one."
       },
-      
+      {
+        coords: [37.789452, -122.408351],
+        name: "✅San Francisco, CA",
+        desc: "San Francisco, officially the City and County of San Francisco, is a commercial, financial, and cultural center of Northern California. With a population of 827,526 residents as of 2024, San Francisco is the fourth-most populous city in the U.S. state of California and the 17th-most populous in the United States."
+      },
+      {
+        coords: [34.125639, -118.332576],
+        name: "✅Los Angeles, CA",
+        desc: "I remember visiting LA for the first time, I was amazed at how diverse it was with people from all walks of life."
+      },
+      {
+        coords: [22.156142, 113.551864],
+        name: "✅Macau",
+        desc: "During my visit to Hong Kong in 2015, we also took a day trip to Macau. Macau is an autonomous region on the south coast of China, across the Pearl River Delta from Hong Kong. A Portuguese territory until 1999, it reflects a mix of cultural influences. Its giant casinos and malls on the Cotai Strip, which joins the islands of Taipa and Coloane, have earned it the nickname, "Las Vegas of Asia." One of its more striking landmarks is the tall Macau Tower, with sweeping city views."
+      },
+      {
+        coords: [57.052459, -135.328124],
+        name: "✅Sitka, AK",
+        desc: "Sitka is an Alaskan city and borough near Juneau, the state capital. It's spread over Baranof Island, part of Chichagof Island and others. It was part of Russia until 1867 and St. Michael’s Orthodox Cathedral is topped with an onion dome. The 1842 Russian Bishop’s House is nearby. Sitka National Historical Park is the site of Russia’s defeat of the indigenous Tlingit people and has a trail dotted with totem poles."
+      },
+      {
+        coords: [22.294092, 114.169246],
+        name: "✅Hong Kong",
+        desc: "Where both sides of my family are from. I visited before the summer of 2015 before the Umbrella Riots began. My grandparents owned a condo above a dim sum restaurant, I remember every morning I'd go ride the elevator from the 33rd floor to eat the ginger chicken congee for breakfast. Hong Kong is a special administrative region of China. With 7.5 million residents in a 1,114-square-kilometre territory, Hong Kong is the fourth most densely populated region in the world."
+      },
+      {
+        coords: [45.626344, -122.675226],
+        name: "✅Vancouver, WA",
+        desc: "My hometown! Vancouver is a city on the north bank of the Columbia River in the U.S. state of Washington, located in Clark County. Founded in 1825 and incorporated in 1857, Vancouver had a population of 190,915 as of the 2020 census, making it the fourth-most populous city in Washington State."
+      },
+      {
+        coords: [45.454291, -123.847283],
+        name: "✅Tillamook, OR",
+        desc: "Yes, Tillamook the cheese company is located here. You can tour their factory, and order giant scoops of ice cream. The city of Tillamook serves as the county seat of Tillamook County, Oregon, United States. The city is located on the southeast end of Tillamook Bay on the Pacific Ocean."
+      },
+     {
+        coords: [49.075198, 1.534232],
+        name: "🔲Monet Garden, France",
+        desc: "Claude Monet's house & ornate gardens, with the artist's studio/sitting room & Japanese prints."
+      },
       
     ];
 
