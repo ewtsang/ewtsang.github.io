@@ -9,7 +9,7 @@ format:
 
 ## My Travel Log
 
-Something I want to do in the future is explore more places within and outside of west coast where I currently reside. Here is my travel checklist, including some places I've been to already! ✈️
+Something I want to do in the future is explore more places within and outside of west coast where I currently reside. Click on the pins below on this interactive map to see my 🔲travel checklist, including some places I've been to already! ✈️✅
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
@@ -30,13 +30,11 @@ Something I want to do in the future is explore more places within and outside o
       {
         coords: [34.413278, -119.845958],
         name: "✅ University of California, Santa Barbara",
-        img: "images/sbartmuseum.jpg",
         desc: "Where I go to school! Known for its science & engineering programs, this public university is situated close to beaches."
       },
       {
         coords: [34.420171, -119.700230],
         name: "✅Santa Barbara, CA ",
-        img: "images/dtsb.jpg",
         desc: "An evening spent on State Street is always a fun one."
       },
       {
@@ -52,7 +50,7 @@ Something I want to do in the future is explore more places within and outside o
       {
         coords: [22.156142, 113.551864],
         name: "✅Macau",
-        desc: "During my visit to Hong Kong in 2015, we also took a day trip to Macau. Macau is an autonomous region on the south coast of China, across the Pearl River Delta from Hong Kong. A Portuguese territory until 1999, it reflects a mix of cultural influences. Its giant casinos and malls on the Cotai Strip, which joins the islands of Taipa and Coloane, have earned it the nickname, "Las Vegas of Asia." One of its more striking landmarks is the tall Macau Tower, with sweeping city views."
+        desc: "During my visit to Hong Kong in 2015, we also took a day trip to Macau. Macau is an autonomous region on the south coast of China, across the Pearl River Delta from Hong Kong. A Portuguese territory until 1999, it reflects a mix of cultural influences. Its giant casinos and malls on the Cotai Strip, which joins the islands of Taipa and Coloane, have earned it the nickname, the Las Vegas of Asia. One of its more striking landmarks is the tall Macau Tower, with sweeping city views."
       },
       {
         coords: [57.052459, -135.328124],
@@ -79,7 +77,31 @@ Something I want to do in the future is explore more places within and outside o
         name: "🔲Monet Garden, France",
         desc: "Claude Monet's house & ornate gardens, with the artist's studio/sitting room & Japanese prints."
       },
-      
+      {
+        coords: [-34.569265, -58.410016],
+        name: "🔲Buenos Aires, Argentina",
+        desc: "Buenos Aires is Argentina’s big, cosmopolitan capital city. Its center is the Plaza de Mayo, lined with stately 19th-century buildings including Casa Rosada, the iconic, balconied presidential palace. Other major attractions include Teatro Colón, a grand 1908 opera house with nearly 2,500 seats, and the modern MALBA museum, displaying Latin American art."
+      },
+      {
+        coords: [19.354818, -99.162257],
+        name: "🔲Mexico City, Mexico",
+        desc: "Mexico City is the densely populated, high-altitude capital of Mexico. It's known for its Templo Mayor (a 13th-century Aztec temple), the baroque Catedral Metropolitana de México of the Spanish conquistadors and the Palacio Nacional, which houses historic murals by Diego Rivera. All of these are situated in and around the Plaza de la Constitución, the massive main square also known as the Zócalo."
+      },
+      {
+        coords: [25.028037, 121.557244],
+        name: "🔲Taipei City, Taiwan",
+        desc: "Taipei, the capital of Taiwan, is a modern metropolis with Japanese colonial lanes, busy shopping streets and contemporary buildings. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base and a rapid elevator to an observatory near the top. Taipei is also known for its lively street-food scene and many night markets, including expansive Shilin market."
+      },
+      {
+        coords: [-6.225992, 106.836384],
+        name: "🔲Jakarta, Indonesia",
+        desc: "Jakarta, Indonesia's massive capital, sits on the northwest coast of the island of Java. A historic mix of cultures – Javanese, Malay, Chinese, Arab, Indian and European – has influenced its architecture, language and cuisine. The old town, Kota Tua, is home to Dutch colonial buildings, Glodok (Jakarta’s Chinatown) and the old port of Sunda Kelapa, where traditional wooden schooners dock."
+      },
+      {
+        coords: [55.684064, 12.577234],
+        name: "🔲Copenhagen, Denmark",
+        desc: "Copenhagen, Denmark’s capital, sits on the coastal islands of Zealand and Amager. It’s linked to Malmo in southern Sweden by the Öresund Bridge. Indre By, the city's historic center, contains Frederiksstaden, an 18th-century rococo district, home to the royal family’s Amalienborg Palace. Nearby is Christiansborg Palace and the Renaissance-era Rosenborg Castle, surrounded by gardens and home to the crown jewels."
+      },
     ];
 
     places.forEach(place => {
