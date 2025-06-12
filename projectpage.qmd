@@ -4,12 +4,14 @@ image: true
 toc: true
 listing:
   contents: projectpage
-  sort: true
+  sort: false
   type: grid
   image-align: right
   max-description-length: 100
   date-format: medium
-  categories: false
+  categories: true
+  sort-ui: true
+  filter-ui: true
 page-layout: article
 freeze: auto
 editor: source
