@@ -1,7 +1,7 @@
 ---
 title: "UVSA Tết Festival 2025"
 toc: false
-categories: [02-2025]
+categories: [Winter 2025]
 about:
   template: jolla
   links: 
