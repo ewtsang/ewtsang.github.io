@@ -1,0 +1,24 @@
+---
+title: "ENV S 193 DS"
+categories: [Spring 2025]
+description: Statistics for Environmental Science 
+format: html
+---
+
+*"Environmental scientists use data to understand the world around them. In this class, we’ll learn about the tools used in environmental science and beyond to work with, analyze, and communicate about data."*
+
+------------------------------------------------------------------------
+
+**Instructor**: An Bui
+
+------------------------------------------------------------------------
+
+## Excerpt from Final Project
+
+Link to GitHub Repository: <https://github.com/ewtsang/ENVS-193DS_spring-2025_final>
+
+Part of my final for this class was visualizing data using data from the Santa Barbara Coastal LTER on sea surface temperature in the Santa Barbara Channel area
+
+*"Data was obtained from the NOAA National Centers for Environmental Information (NCEI) at 0.25° resolution for the time between 1982 and 2023. This Daily Optimum Interpolation Sea Surface Temperature (OISST) Analysis (Version 2.1) derived its data from satellite (Advanced Very High Resolution Radiometer (AVHRR)) and in situ platforms (i.e., ships and buoys) and yielded 18 gird points within the Santa Barbara Channel."*
+
+First, I had to load in packages and data

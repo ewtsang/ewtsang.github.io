@@ -4,6 +4,7 @@ categories: [chicken]
 description: A classic delicious poached chicken and rice meal
 format: html
 ---
+
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
 This recipe was adapted from daigasikfaan, who named this her **"Marry Me Chicken"**. It uses a Cantonese poaching method that lets the chicken sit in residual heat, resulting in a perfectly soft and tender meat.

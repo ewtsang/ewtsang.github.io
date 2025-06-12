@@ -4,6 +4,7 @@ format:
   html:
     allow-html:
 ---
+
 Questions? Contact me via email!
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
@@ -15,4 +16,3 @@ This browser does not support PDFs. Please download the file:
 <a href="CV/ETResumeMay2025.pdf">Download PDF</a>.
 
 <iframe>
-
