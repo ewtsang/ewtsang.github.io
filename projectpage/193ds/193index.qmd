@@ -13,7 +13,7 @@ format: html
 
 ------------------------------------------------------------------------
 
-## Excerpt from Final Project
+## Excerpt from Final Coding Assignment
 
 Link to GitHub Repository: <https://github.com/ewtsang/ENVS-193DS_spring-2025_final>
 
@@ -21,4 +21,112 @@ Part of my final for this class was visualizing data using data from the Santa B
 
 *"Data was obtained from the NOAA National Centers for Environmental Information (NCEI) at 0.25° resolution for the time between 1982 and 2023. This Daily Optimum Interpolation Sea Surface Temperature (OISST) Analysis (Version 2.1) derived its data from satellite (Advanced Very High Resolution Radiometer (AVHRR)) and in situ platforms (i.e., ships and buoys) and yielded 18 gird points within the Santa Barbara Channel."*
 
-First, I had to load in packages and data
+
+::: {.callout-note title="Evelyn's Note"}
+***Unfortunately, my code currently does not work.*** Although R runs seperately just fine with files loaded and plots made, it shows an error code when rendering:
+
+Error in `file()`:
+! cannot open the connection
+Backtrace:
+    ▆
+ 1. └─utils::read.csv("projectpage/193ds/SST_update2023.csv")
+ 2.   └─utils::read.table(...)
+ 3.     └─base::file(file, "rt")
+
+Quitting from 193index.qmd:42-45 [reading-data]
+
+Therefore, I will "#"-out for now and revisit later.
+:::
+
+### Loading in packages and data
+Here are the necessary packages needed to complete my code.
+
+::: {layout-ncol="2"}
+```{r setup, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+#loading in libraries
+library(tidyverse) #general use
+library(here) #organization
+library(ggeffects) #model predictions
+library(janitor) #cleaning data frames
+library(readxl) #reading excel sheets
+library(dplyr) #data manipulation
+library(ggplot2) #creating figures
+i_am("projectpage/193ds/193index.qmd") # set root explicitly for this quarto file
+```
+:::
+
+Next, I read in my data!
+
+::: {layout-ncol="2"}
+```{r reading-data}
+#read in SB LTER data for this assignment
+#sst <- read.csv("projectpage/193ds/SST_update2023.csv")
+```
+:::
+
+### Cleaning and summarizing
+Here, I clean my sea surface temperature data, and create a dataframe grouping by month, year, and mean temperature. There's a display with 5 random rows from the dataset.
+
+::: {layout-ncol="2"}
+```{r 2a-data-cleaning}
+#create object called sst_clean from sst
+#sst_clean <- sst |> 
+#  mutate(date = ymd(date), #convert the "date" column to "year/month/day" format
+#         year = year(date), #converting to date, making sure it is in numeric values
+#         month = month(date, label = TRUE)) |> #extract month as abbreviated "Jan", "Feb", etc.
+#  filter(year %in% c("2018", "2019", "2020", "2021", "2022", "2023")) |> #only use data from 2018 to 2023
+#  mutate(month = factor(month, levels = month.abb, ordered = TRUE)) |>  #ensure month is an ordered factor (Jan to Dec)
+#need a data frame with abbreviated month, year, and mean_monthly_sst
+#  group_by(year, month) |> #group by year and month for summary statistics
+#  summarize(mean_monthly_sst = round(mean(temp, na.rm = TRUE), 1), .groups = "drop")
+#calculate average temperature per group, rounding to one decimal point
+#drop grouping
+
+#sst_clean$year <- factor(sst_clean$year, levels = c("2018", "2019", "2020", "2021", "2022", "2023"))
+#display 5 rows from sst_clean, in levels ("2018", "2019", "2020", "2021", "2022", and "2023"
+
+#slice_sample(sst_clean, n = 5)
+#randomly display 5 rows from cleaned dataset (sst_clean) to inspect output
+
+#str(sst_clean)
+#show structure of the dataset (data type, variable, etc)
+```
+:::
+
+### Visualizization
+Final graph showing the pattern of sea surface temperature oer the years, from 2018 to 2023.
+
+::: {layout-ncol="2"}
+```{r 2b-sst-visualization}
+#ggplot(data = sst_clean, #making visualization using cleaned sst data 
+#        aes(x = month, y = mean_monthly_sst, color = year, group = year)) + 
+  #setting the axis, comparing month (x axis) and mean monthly sea surface temperature (y axis)
+#  scale_color_manual(
+#    values = colorRampPalette(c("lightblue","darkblue"))(6)
+#  ) + 
+  #set custom blue color gradient representing 6 years
+#  scale_y_continuous(
+    limits = c(12,20) #set y axis range from 12-20°C
+#  ) +
+#  geom_line(
+#    aes(group = year)) + 
+  #adding lines grouped by year to show monthly trends 
+#  geom_point(
+#    aes(), 
+  #adding individual data points to highlight each month's value
+#     size = 2) +
+  #labeling the title and axis of the plot
+#labs(title = "Mean monthly surface temperature (C°) by year, 2018 to 2023",
+#       x = "Month",
+#       y = "Mean monthly sea surface temperature(C°)") +
+#  theme_minimal() + #use a clean, minimal theme
+#  theme(
+#    panel.grid = element_blank(), #remove background gridlines
+#    panel.border = element_rect(color = "black", fill = NA), #adding a black plot panel border
+#    axis.line = element_line(color = "black"), #add black axis lines
+#    axis.ticks = element_line(color = "black"), #adding black axis ticks
+#    legend.position = c(0.2, 0.7), #place legend inside plot at these coordinates
+#  )
+```
+:::
