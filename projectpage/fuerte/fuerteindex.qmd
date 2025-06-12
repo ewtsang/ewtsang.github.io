@@ -1,5 +1,7 @@
 ---
 title: "FUERTE"
+categories: [Research]
+description: The [FUERTE](https://fuerte.eemb.ucsb.edu/) program, is a program for undergraduates at UC Santa Barbara.
 toc: false
 about:
   template: jolla
@@ -10,19 +12,23 @@ about:
 format: html
 ---
 
+![Entrance to SNARL](/images/snarl.jpg){fig-align="center" width="188"}
+
 The [FUERTE](https://fuerte.eemb.ucsb.edu/) program, is a program for undergraduates at UC Santa Barbara. Funded by the U.S. National Science Foundation, FUERTE is is a three-year research program designed to build a foundation to succeed at the university and to develop the skills needed for a career in conservation and environmental sciences, areas that specifically involve fieldwork when doing research.
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
 ## Summer 1
 
-My first summer began with a summer field trip to the Sierra Nevada Aquatic Research Laboratory ([SNARL](https://snarl.nrs.ucsb.edu/)). I learned about long-term place-based datasets, data collection and analysis. My personal project, working with Sanjana Sujeet and Andrea Estrada, examined plastic collected in the Eastern Sierras.
+![Picture of Crystal Lake](/images/fuerte1.jpg){fig-align="center" width="333"}
 
-You can check out our presentation here:
+My first summer began with a summer field trip to the Sierra Nevada Aquatic Research Laboratory ([SNARL](https://snarl.nrs.ucsb.edu/)). I learned about long-term place-based datasets, data collection and analysis. My personal project, working with Sanjana Sujeet and Andrea Estrada, examined plastic collected in the Eastern Sierras.
 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
 ## Summer 2
+
+![Collecting pickleweed at North Campus Open Space](/images/nocs.jpg){fig-align="center" width="188"}
 
 During my second summer, I participated in the DECOMP Lab. I worked with PhD Student, Germán Silva on *“Researching Wetland Plant Dynamics and Disturbance Response in a Changing Environment”*, examining how pickleweed plants can be used as environmental indicators.
 
@@ -33,6 +39,8 @@ Helped develop protocol and perform data collection for pickleweed sample prep, 
 ⊹₊ ˚‧︵‿₊୨ ᰔ ୧₊‿︵‧ ˚ ₊⊹
 
 ## Summer 3
+
+![Adventures ahead!](https://i0.wp.com/cfrog.org/wp-content/uploads/2021/05/brandon-desjarlais-ydriVvor1Ww-unsplash.jpg?resize=1024%2C767&ssl=1){fig-align="center" width="334"}
 
 This summer, I will be working with [CFROG](https://cfrog.org/), a Ventura County-based advocacy organization leading a just transition away from fossil fuels to protect our health, economy, and climate.
 

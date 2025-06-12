@@ -1,6 +1,6 @@
 ---
 title: "Tide and Terra Magazine"
-categories: [creative]
+categories: [Creative]
 description: A UCSB mini magazine focused on communicating environmental topics -- *by students, from students*.
 format: 
   html:
